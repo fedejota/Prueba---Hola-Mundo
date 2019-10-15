@@ -1,1 +1,2 @@
-alert ("Hola Cacoso Oloroso");
+const nombreUsuario = "Ingresá tu nombre:"
+alert (`Hola ${nombreUsuario});
